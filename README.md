@@ -1,0 +1,1 @@
+# KuCoin-app-for-Windows
